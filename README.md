@@ -2,10 +2,10 @@
 
 ## Installation
 
-You can install `NeuralForecast` with:
+You can install  with:
 
 ```python
-pip install neuralforecast
+pip install 
 ```
 
 or 
